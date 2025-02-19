@@ -6,7 +6,7 @@ This project demonstrates the process of building a speaker recognition system u
 
 ### Data Preprocessing
 
-1. **Dataset Building**: Audio files are organized into speaker and non-speaker categories. Files are copied and renamed accordingly.1. **Dataset Building**: Audio files are organized into speaker and non-speaker categories. Files are copied and renamed accordingly.
+1. **Dataset Building**: Audio files are organized into speaker and non-speaker categories. Files are copied and renamed accordingly. The dataset used can be found [here](https://www.kaggle.com/datasets/kongaevans/speaker-recognition-dataset).
 2. **Feature Extraction**: MFCC (Mel-frequency cepstral coefficients) features are extracted from the audio files and normalized. These features are used as input to the neural network.ure Extraction\*\*: MFCC (Mel-frequency cepstral coefficients) features are extracted from the audio files and normalized. These features are used as input to the neural network.
 
 ### Model Architectureure
